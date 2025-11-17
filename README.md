@@ -39,22 +39,22 @@ Customizable notification times with motivational quotes. Choose from daily, wee
 
 ### Journaling & AI Analysis
 <p align="center">
-  <img src="Screenshots/ss1.png" width="200" />
-  <img src="Screenshots/ss2.png" width="200" />
-  <img src="Screenshots/ss3.png" width="200" />
+  <img src="Screenshots/ss1.png" width="150" />
+  <img src="Screenshots/ss2.png" width="150" />
+  <img src="Screenshots/ss3.png" width="150" />
 </p>
 
 ### Statistics & Calendar
 <p align="center">
-  <img src="Screenshots/ss4.png" width="200" />
-  <img src="Screenshots/ss5.png" width="200" />
-  <img src="Screenshots/ss6.png" width="200" />
+  <img src="Screenshots/ss4.png" width="150" />
+  <img src="Screenshots/ss5.png" width="150" />
+  <img src="Screenshots/ss6.png" width="150" />
 </p>
 
 ### Settings & Security
 <p align="center">
-  <img src="Screenshots/ss4.png" width="200" />
-  <img src="Screenshots/ss7.png" width="200" />
+  <img src="Screenshots/ss4.png" width="150" />
+  <img src="Screenshots/ss7.png" width="150" />
 </p>
 
 ## 🛠️ Tech Stack
